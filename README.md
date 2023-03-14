@@ -1,2 +1,2 @@
-# alx-zero_day My First readme
+# alx-zero_day
 
